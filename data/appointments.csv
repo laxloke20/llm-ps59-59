@@ -1,0 +1,4 @@
+booking_id,slot_id,patient_name,doctor,department,date,time,booked_at
+APT-D9067CF2,S004,Rahul Patil,Dr. Riya Deshmukh,Cardiology,2026-11-22,10:00,2026-11-21T15:53:27+05:30
+APT-48E0013A,S001,Priya Shah,Dr. Asha Patil,General Medicine,2026-11-22,09:00,2026-11-21T15:56:05+05:30
+APT-AAE5FBF7,S008,Sneha Rao,Dr. Neel Shah,Dermatology,2026-11-22,12:00,2026-11-21T15:56:21+05:30
